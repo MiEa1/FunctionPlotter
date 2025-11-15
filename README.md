@@ -1,4 +1,4 @@
-# plot_functions.py
+# Function Plotter
 
 A small, dependency-light command-line function plotter (no GUI).
 Generates publication-quality PNG/JPEG plots from mathematical expressions using NumPy, SymPy, Matplotlib, and Pillow.
